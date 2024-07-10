@@ -2,7 +2,7 @@
 
 <div markdown="1">
 
-<img align="right" float="left" margin-left="25" height="200" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/cv-recent-sized.png">
+<img align="right" float="left" margin-left="25" height="200"  title="Profile image of Christopher Vickery" alt="Profile image of middle aged tech writer Christopher Vickery looking off into the middle distance and probably thinking about gerunds" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/cv-recent-sized.png">
 
 I am a Senior Tech Writer and Content Manager with more than 20 years of experience. I have written in everything from Microsoft Word to Madcap Flare to Markdown and Asciidoc. 
 
@@ -20,7 +20,7 @@ Accessiblity and inclusive language are important to me. I write succinctly and 
 
 ### [Developer Doc Site for Strivr](https://developer.strivr.com/docs/sdk/latest/index.html) 
 
-[<img align="center" alt="image of the documentation site for Strivr's software development kit for Unity" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-dev-docs-site-sized.png">](https://developer.strivr.com/docs/sdk/latest/index.html)
+[<img align="center" title="Image of the documentation site for Strivr's SDK for Unity" alt="image of the documentation site for Strivr's software development kit for Unity" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-dev-docs-site-sized.png">](https://developer.strivr.com/docs/sdk/latest/index.html)
 
 - I authored and maintained this docs site for a Unity SDK.
 - The site is generated using [Antora](https://antora.org/).
@@ -32,7 +32,7 @@ Accessiblity and inclusive language are important to me. I write succinctly and 
 
 ### [Online help/support site for Strivr](https://support.strivr.com)
 
-[<img align="center" alt="image of the homepage for Strivr's support and help site" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-support-site-sized.png">](https://support.strivr.com)
+[<img align="center" title="Image of the homepage for Strivr's support and help site" alt="image of the homepage for Strivr's support and help site" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-support-site-sized.png">](https://support.strivr.com)
 
 - I designed, authored, and maintained this site for Strivr, a Virtual Reality training company.
 - The site is authored in and generated using [Madcap Flare](https://www.madcapsoftware.com/products/flare/).
