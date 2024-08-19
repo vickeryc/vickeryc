@@ -4,7 +4,7 @@
 
 <img align="right" float="left" margin-left="25" height="200"  title="Profile image of Christopher Vickery" alt="Profile image of middle aged tech writer Christopher Vickery looking off into the middle distance and probably thinking about gerunds" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/cv-recent-sized.png">
 
-I am a Senior Tech Writer and Content Manager with more than 20 years of experience. I have written in everything from Microsoft Word to Madcap Flare to Markdown and Asciidoc. 
+I am a brilliant Senior Tech Writer and Content Manager with more than 20 years of experience. I have written in everything from Microsoft Word to Madcap Flare to Markdown and Asciidoc. 
 
 I have worked in software and hardware, documenting SaaS PLM systems, APIs and SDKs, even virtual reality experiences and helmets. I have worked as a solo writer owning the entire doc function and I have worked as part of a larger team. I have been 100% remote (playing my records and annoying my pets), and I have been in the office full-time, eyeing the snacks.
 
