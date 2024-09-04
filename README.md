@@ -20,7 +20,7 @@ Accessiblity and inclusive language are important to me. I write succinctly and 
 
 ### [Developer Doc Site for Strivr](https://developer.strivr.com/docs/sdk/latest/index.html) 
 
-[<img align="center" title="Image of the documentation site for Strivr's SDK for Unity" alt="image of the documentation site for Strivr's software development kit for Unity" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-dev-docs-site-border.png">](https://developer.strivr.com/docs/sdk/latest/index.html)
+[<img align="center" title="Image of the documentation site for Strivr's SDK for Unity" alt="image of the documentation site for Strivr's software development kit for Unity" widht="650px" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-dev-docs-site-border.png">](https://developer.strivr.com/docs/sdk/latest/index.html)
 
 - I authored and maintained this docs site for a Unity SDK.
 - The site is generated using [Antora](https://antora.org/).
