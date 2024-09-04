@@ -28,6 +28,17 @@ Accessiblity and inclusive language are important to me. I write succinctly and 
 
 </div>
 
+<div markdown="1">
+
+### [Online help/support site for Strivr](https://support.strivr.com)
+
+[<img align="center" title="Image of the homepage for Strivr's support and help site" alt="image of the homepage for Strivr's support and help site" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-support-site-sized.png">](https://support.strivr.com)
+
+- I designed, authored, and maintained this site for Strivr, a Virtual Reality training company.
+- The site is authored in and generated using [Madcap Flare](https://www.madcapsoftware.com/products/flare/).
+
+</div>
+
 ### [Getting started guide](https://support.strivr.com/downloads/strivr-welcome-immersive-learning-neo3-1.3.pdf)
 
 [<img align="center" alt="image of the cover for a booklet titled Welcome to Immersive Learning" title="a booklet titled Welcome to Immersive Learning"  width="450px" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/welcome-to-immersive-learning.png">](https://support.strivr.com/downloads/strivr-welcome-immersive-learning-neo3-1.3.pdf)
@@ -56,13 +67,3 @@ Accessiblity and inclusive language are important to me. I write succinctly and 
 - The document includes a redesigned virtual lobby and updated flow for introductory screens.
 - I created this document using Google docs, Adobe Photoshop, and Adobe Illustrator.
 
-<div markdown="1">
-
-### [Online help/support site for Strivr](https://support.strivr.com)
-
-[<img align="center" title="Image of the homepage for Strivr's support and help site" alt="image of the homepage for Strivr's support and help site" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-support-site-sized.png">](https://support.strivr.com)
-
-- I designed, authored, and maintained this site for Strivr, a Virtual Reality training company.
-- The site is authored in and generated using [Madcap Flare](https://www.madcapsoftware.com/products/flare/).
-
-</div>
