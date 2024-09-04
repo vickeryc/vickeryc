@@ -28,6 +28,34 @@ Accessiblity and inclusive language are important to me. I write succinctly and 
 
 </div>
 
+### [Getting started guide](https://support.strivr.com/downloads/strivr-welcome-immersive-learning-neo3-1.3.pdf)
+
+[<img align="center" alt="image of the cover for a booklet titled Welcome to Immersive Learning" title="a booklet titled Welcome to Immersive Learning"  width="450px" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/welcome-to-immersive-learning.png">](https://support.strivr.com/downloads/strivr-welcome-immersive-learning-neo3-1.3.pdf)
+
+- I created this printed booklet for Strivr, a VR training company.
+- The booklet was shipped to customers receiving a Virtual Reality training kit.
+- The booklet contains setup instructions, FAQs, and troubleshooting.
+- I created this booklet using Adobe InDesign, Adobe Photoshop, and Adobe Illustrator.
+- I led the project from start to finish, including the design and layout, and worked with offset printers to deliver the project.
+
+### [New feature intro](https://support.strivr.com/downloads/strivr-acclimation-and-strivr-home.pdf)
+
+[<img align="center" alt="image of the front page of on overview document detailing a revamped experience for VR learners" title="an overview document detailing a revamped experience for VR learners" height="650px" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-acclimation-and-strivr-home.png">](https://support.strivr.com/downloads/strivr-acclimation-and-strivr-home.pdf)
+
+- I created this overview document for Strivr, a VR training company.
+- This  document details a revamped experience for Virtual Reality learners.
+- The document includes a redesigned virtual lobby and updated flow for introductory screens.
+- I created this document using Google docs, Adobe Photoshop, and Adobe Illustrator.
+
+### [User manual](https://support.strivr.com/downloads/strivr_user-manual-neo3.pdf)
+
+[<img align="center" alt="image of the cover for a virtual reality training user manual" title="a virtual reality training user manual" height="650px" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr_user-manual-neo3.png">](https://support.strivr.com/downloads/strivr_user-manual-neo3.pdf)
+
+- I created this user manual for Strivr, a VR training company.
+- This user manual includes all the information needed to use a virtual reality training system.
+- The document includes a redesigned virtual lobby and updated flow for introductory screens.
+- I created this document using Google docs, Adobe Photoshop, and Adobe Illustrator.
+
 <div markdown="1">
 
 ### [Online help/support site for Strivr](https://support.strivr.com)
