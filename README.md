@@ -45,8 +45,6 @@ Accessiblity and inclusive language are important to me. I write succinctly and 
 
 <div markdown="1">
 
-<!--[<img align="right" width="325" margin-left="25px" border="1" alt="image of the homepage for Strivr's support and help site" src="/images/strivr-support-site.png">](https://support.strivr.com)-->
-
 ### [Online help/support site](https://support.strivr.com)
 
 [<img align="center" alt="image of the homepage for Strivr's support and help site" title="link to the support and help site for Strivr"  width="650px" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-support-site-sized.png">](https://support.strivr.com)
