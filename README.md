@@ -18,8 +18,6 @@ Accessiblity and inclusive language are important to me. I write succinctly and 
 
 <div markdown="1">
 
-<!--[<img align="right" width="325" margin-left="25px" border="1px" alt="image of the documentation site for Strivr's software development kit for Unity" bordercolor="solid black" src="/images/strivr-dev-docs-site.png">](https://developer.strivr.com/docs/sdk/latest/index.html)-->
-
 ### [Developer Doc Site](https://developer.strivr.com/docs/sdk/latest/index.html) 
 
 [<img align="center" alt="image of the documentation site for Strivr's software development kit for Unity" title="link to the developer documentation site for Strivr's SDK for Unity" width="650px" src="https://gitlab.com/vickeryc/vickeryc/-/raw/main/images/strivr-dev-docs-site-border.png">](https://developer.strivr.com/docs/sdk/latest/index.html)
